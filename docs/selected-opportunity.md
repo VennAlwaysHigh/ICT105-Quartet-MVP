@@ -60,7 +60,7 @@ The MVP can be developed using React, Tailwind CSS, and Supabase. These technolo
 
 ## Possible MVP Type
 
-Simple Web App Prototype
+Simple Web App Prototype:
  **Simple Web App Prototype**
 
 ## Initial Validation Plan for Lab 03
